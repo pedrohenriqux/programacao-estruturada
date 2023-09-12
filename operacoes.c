@@ -1,11 +1,10 @@
-/* PROGRAMA QUE SOLICITA UM NÚMERO AO USUÁRIO E REALIZA AS SEGUINTES OPERAÇÕES,
-   RESPECTIVAMENTE:
+/* Q. 01 - PROGRAMA QUE SOLICITA UM NÚMERO AO USUÁRIO E REALIZA AS SEGUINTES OPERAÇÕES, RESPECTIVAMENTE:
 
-  - o quadrado desse número;
-  - o cubo desse número;
-  - a raiz quadrada desse número;
-  - a raiz cúbica desse número;
-  - o resto da divisão desse número por 3;                                */
+            1. o quadrado desse número;
+            2. o cubo desse número;
+            3. a raiz quadrada desse número;
+            4. a raiz cúbica desse número;
+            5. o resto da divisão desse número por 3.                                */
 
 #include <stdio.h>
 #include <math.h>
