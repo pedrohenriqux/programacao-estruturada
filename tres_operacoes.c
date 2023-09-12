@@ -1,9 +1,8 @@
-/* PROGRAMA QUE RECEBE 3 NÚMEROS E PEDE PARA O USUÁRIO ESCOLHER
-   ENTRE AS OPÇÕES:
+/* Q. 03 - PROGRAMA QUE RECEBE 3 NÚMEROS E PEDE PARA O USUÁRIO ESCOLHER ENTRE AS OPÇÕES:
 
-     1 - mostrar em ordem crescente;
-     2 - mostrar em ordem decrescente;
-     3 - mostrar o menor número;                             */
+               1 - mostrar em ordem crescente;
+               2 - mostrar em ordem decrescente;
+               3 - mostrar o menor número;                                            */
 
 // bibliotecas
 #include <stdio.h>
