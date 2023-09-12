@@ -1,7 +1,8 @@
 /* Q. 05 - PROGRAMA QUE RECEBE A IDADE, PESO E ALTURA DE 10 PESSOAS E CALCULA:
-               01. a média de idade das 10 pessoas;
-               02. a quantidade de pessoas com peso superior a 80Kg e altura inferior a 1,50m;
-               03. % de pessoas com idade entre 10 e 30 anos, entre as pessoas que medem mais de 1,90m.     */
+
+               1. a média de idade das 10 pessoas;
+               2. a quantidade de pessoas com peso superior a 80Kg e altura inferior a 1,50m;
+               3. % de pessoas com idade entre 10 e 30 anos, entre as pessoas que medem mais de 1,90m.     */
 
 #include <stdio.h>
 #include <stdlib.h>
