@@ -1,4 +1,4 @@
-/* PROGRAMA QUE RECEBE A IDADE, PESO E ALTURA DE 10 PESSOAS E CALCULA:
+/* Q. 05 - PROGRAMA QUE RECEBE A IDADE, PESO E ALTURA DE 10 PESSOAS E CALCULA:
      01. a média de idade das 10 pessoas;
      02. a quantidade de pessoas com peso superior a 80Kg e altura
          inferior a 1,50m;
